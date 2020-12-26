@@ -1,10 +1,1 @@
- Volume in drive D is DATA
- Volume Serial Number is 5A89-D1A3
-
- Directory of D:\GIT
-
-12/25/2020  10:02 PM    <DIR>          .
-12/25/2020  10:02 PM    <DIR>          ..
-12/25/2020  10:02 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  32,191,479,808 bytes free
+Change 1
