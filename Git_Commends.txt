@@ -1,0 +1,12 @@
+	-git init
+	-git status
+	-git add
+	-git commit -m "Message - reason for commit"
+	-git remote add origin https://github.com/miqbal78/Automation.git
+	-git push -u origin master
+
+Git signup from commend prompt 
+	 git config --global user.email "you@example.com"
+	 git config --global user.name "Your Name"
+
+git push -u origin master
